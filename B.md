@@ -34,7 +34,7 @@ After completing expensive courses like BCA, BBA, etc. The only thing we get is 
  Yes, you guessed it right, it is India. But here is a shocking report by Indiatoday.
  India produces 1.5 million engineers every year and 97% of graduating engineers want jobs either in software engineering or core engineering.
  
-<a href="aboutme.html" class="image"> <img src="content://com.android.chrome.FileProvider/images/screenshot/16043762225888069189075658043363.jpg" alt="" /></a>
+<a href="aboutme.html" class="image"> <img src="https://miro.medium.com/max/1470/1*5FJI-lhLPdgjr9lEMYN3ng.jpeg" alt="" /></a>
  
   However, only 3% have suitable skills to be employed in software or product market, and only 7% can handle core engineering tasks.
 That’s how our education system serves our nation. I’m not saying that every school and college are the same, there are some colleges and schools, which educate the students very well.
