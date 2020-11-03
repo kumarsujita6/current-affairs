@@ -46,12 +46,12 @@ When I was a kid, my solution to this question was “Government should complete
 
  But there are plenty of solutions that can secure our country’s future. These solutions can’t change the education system completely.
 
- ## Solution 1(The Government way) :- 
+## Solution 1(The Government way) :- 
   Government should deploy better teachers, teachers who understand the psychology of children, teachers who are enthusiastic about teaching kids, teachers who are very creative at teaching kids.
  Government should also modify the syllabus and should add those concepts in syllabus that are interesting to children, concepts that encourage kids to know more about it.
  The government should invest more money in the education of kids, who are future of the nation.
 
- ## Solution 2(The Student way) :- 
+## Solution 2(The Student way) :- 
   You should change the mentality, which you have, you should think of becoming an employer, not an employee. You should think of becoming innovators, artists, scientists, thinkers and writers who can establish the foundation of a knowledge-based economy rather than the low-quality service provider nation that we are turning into.
 You should find your passions, what you love to do and choose it as a career option without thinking of the criticism of society.
 If you choose your passion as your career, then even if your college is bad, you will excel because of your curiosity about the subject and thanks to the internet, with the internet you can learn almost anything without even money.
