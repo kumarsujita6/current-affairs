@@ -1,6 +1,6 @@
 
 # Our Education System
-Hello guys, I am here with my 1st ever article for all of you.
+Hello guys, I am here with another article for all of you.
 First of all let me introduce myself, I am sujit kumar mishra a simple guy like all of you ,still studying in college. I think this is enough now lets start our todya's topic  "our  education system"
 ok so here i am sharing my thoughts on our own education system . Before Starting i clearly mentioned that  it's my own thoughts nothing else so u may agree or not to it . 
 
