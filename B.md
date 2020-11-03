@@ -1,4 +1,4 @@
-<html>
+
 # Our Education System
 Hello guys, I am here with my 1st ever article for all of you.
 First of all let me introduce myself, I am sujit kumar mishra a simple guy like all of you ,still studying in college. I think this is enough now lets start our todya's topic  "our  education system"
@@ -34,7 +34,7 @@ After completing expensive courses like BCA, BBA, etc. The only thing we get is 
  Yes, you guessed it right, it is India. But here is a shocking report by Indiatoday.
  India produces 1.5 million engineers every year and 97% of graduating engineers want jobs either in software engineering or core engineering.
  
- <img src="content://com.android.chrome.FileProvider/images/screenshot/16043762225888069189075658043363.jpg" alt="" />
+<a> <img src="content://com.android.chrome.FileProvider/images/screenshot/16043762225888069189075658043363.jpg" alt="" /></a>
  
   However, only 3% have suitable skills to be employed in software or product market, and only 7% can handle core engineering tasks.
 That’s how our education system serves our nation. I’m not saying that every school and college are the same, there are some colleges and schools, which educate the students very well.
@@ -64,4 +64,3 @@ If you choose your passion as your career, then even if your college is bad, you
 
  - Sujit Kumar Mishra
  
- </html>
